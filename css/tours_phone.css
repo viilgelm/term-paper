@@ -1,0 +1,11 @@
+@media (max-width: 428px){
+    .tours_h2{
+        font-size: 10px;
+    }
+    .tours_counter{
+        grid-template-columns: 1fr;
+    }
+    .tours{
+        margin-top: 10%;
+    }
+}

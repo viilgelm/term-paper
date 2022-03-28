@@ -1,0 +1,23 @@
+.tours_counter{
+    display: grid;
+    grid-template-columns: 1fr 0.3fr 1fr 0.3fr 1fr;
+    align-items: center;
+}
+.tour_btn{
+    border: none;
+    background-color: transparent;
+}
+.tours{
+    margin-top: 5%;
+}
+.tours_h2{
+    font-size:60px ;
+   color: transparent;
+   -webkit-background-clip: text;
+   background-clip: text;
+   background-image: linear-gradient(to right,#5588C1 33%,#84E1DC 60%);
+    text-align: center;
+}
+.tours_counter{
+    margin-top:5% ;
+}
